@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dongajul_app/static/css/main.073c9b0a.css",
+    "main.js": "/dongajul_app/static/js/main.ef9bc3f5.js",
+    "static/js/787.7ec4e634.chunk.js": "/dongajul_app/static/js/787.7ec4e634.chunk.js",
+    "static/media/logo.svg": "/dongajul_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dongajul_app/index.html",
+    "main.073c9b0a.css.map": "/dongajul_app/static/css/main.073c9b0a.css.map",
+    "main.ef9bc3f5.js.map": "/dongajul_app/static/js/main.ef9bc3f5.js.map",
+    "787.7ec4e634.chunk.js.map": "/dongajul_app/static/js/787.7ec4e634.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ef9bc3f5.js"
+  ]
+}
